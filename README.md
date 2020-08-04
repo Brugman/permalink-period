@@ -1,5 +1,7 @@
 # Permalink Period
 
+![screenshot](/screenshot.jpg)
+
 Hide the permalink in the content to hopefully get backlinks from content thieves.
 
 ## License
